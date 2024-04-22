@@ -2,24 +2,16 @@
 https://yzueducn-my.sharepoint.com/:f:/g/personal/zhangxf_yzu_edu_cn/En3cINAQgXJFjvUIw8Qg7zUBWcmI9NwXW7VwsToAuLoLrg?e=nm6ete.
 
 ![img1](./img/1.svg)
-<center>
-fig1
-</center>
+<center>fig1</center>
 
 ![img2](./img/2.svg)
-<center>
-fig2
-</center>
+<center>fig2</center>
 
 ![img3](./img/3.svg)
-<center>
-fig3
-</center>
+<center>fig3</center>
 
 ![img4](./img/4.svg)
-<center>
-fig4
-</center>
+<center>fig4</center>
 
 |  SN  |                          Components                          |                        SHT B -> SHT A                        |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: |
