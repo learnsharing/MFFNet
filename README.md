@@ -190,3 +190,8 @@ https://yzueducn-my.sharepoint.com/:f:/g/personal/zhangxf_yzu_edu_cn/En3cINAQgXJ
 </tbody>
 </table>
 </div>
+
+
+<div style="text-align:center;">
+    <p>This paragraph is centered.</p>
+</div>
