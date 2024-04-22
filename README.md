@@ -40,8 +40,8 @@ https://yzueducn-my.sharepoint.com/:f:/g/personal/zhangxf_yzu_edu_cn/En3cINAQgXJ
 |  8   |                       |                                 |              FIDTM              |                    |                    |         |      |   147.6   |   282.2   |    66.58    |   670    |      335.0      |      21      |
 
 
-
-<table>
+<div style="text-align: center;">
+    <table>
 <thead>
   <tr>
     <th rowspan="2">SN</th>
@@ -189,3 +189,4 @@ https://yzueducn-my.sharepoint.com/:f:/g/personal/zhangxf_yzu_edu_cn/En3cINAQgXJ
   </tr>
 </tbody>
 </table>
+</div>
