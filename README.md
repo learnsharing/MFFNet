@@ -3,27 +3,28 @@ https://yzueducn-my.sharepoint.com/:f:/g/personal/zhangxf_yzu_edu_cn/En3cINAQgXJ
 
 ![img1](./img/1.svg)
 
-<center>
-  fig1
-</center>
+<div style="text-align:center;">
+    <p>fig1</p>
+</div>
+
 
 ![img2](./img/2.svg)
 
-<center>
-  fig2
-</center>
+<div style="text-align:center;">
+    <p>fig2</p>
+</div>
 
 ![img3](./img/3.svg)
 
-<center>
-  fig3
-</center>
+<div style="text-align:center;">
+    <p>fig3</p>
+</div>
 
 ![img4](./img/4.svg)
 
-<center>
-  fig4
-</center>
+<div style="text-align:center;">
+    <p>fig4</p>
+</div>
 
 
 |      |                       |                                 |           Components            |                    |                    |         |      |           |           |    SHT B    |    ->    |      SHT A      |              |
