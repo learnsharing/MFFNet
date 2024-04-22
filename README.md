@@ -60,8 +60,8 @@ https://yzueducn-my.sharepoint.com/:f:/g/personal/zhangxf_yzu_edu_cn/En3cINAQgXJ
     <th>MSE</th>
     <th>Params<br>(MB)</th>
     <th>TCE<br>(ep)</th>
-    <th>Train Time<br>(min)</th>
-    <th>Test Time<br>(s)</th>
+    <th>Train Time(min)</th>
+    <th>Test Time(s)</th>
   </tr>
 </thead>
 <tbody>
@@ -119,7 +119,7 @@ https://yzueducn-my.sharepoint.com/:f:/g/personal/zhangxf_yzu_edu_cn/En3cINAQgXJ
     <td>√</td>
     <td>√</td>
     <td>√</td>
-    <td></td>
+    <td>×</td>
     <td>MCA</td>
     <td>+BS</td>
     <td>127.9</td>
