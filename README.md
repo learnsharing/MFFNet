@@ -38,28 +38,3 @@ https://yzueducn-my.sharepoint.com/:f:/g/personal/zhangxf_yzu_edu_cn/En3cINAQgXJ
 |  7   |           √           |                √                |                √                |         √          |         √          |   MCA   | +BS  | **107.3** | **188.5** |    68.86    |   100    |      84.0       |      32      |
 |  8   |                       |                                 |              FIDTM              |                    |                    |         |      |   147.6   |   282.2   |    66.58    |   670    |      335.0      |      21      |
 
-
-
-<table>
-	<tr>
-		<td style="text-align:center;vertical-align:middle;" colspan="3" bgcolor=#C9C9C9>Stream API</td> 
-	</tr>
-	<tr>
-		<td rowspan="2" bgcolor=#C1C1C1>中间操作</td>
-		<td>无状态</td>    
-		<td width="%80">unordered()</td>
-	</tr>
-	<tr>
-		<td>有状态</td> 
-		<td>distinct()</td>
-	</tr>
-	<tr>
-		<td rowspan="2" bgcolor=#C1C1C1>结束操作</td>
-		<td>非短路操作</td>    
-		<td>forEach()</td>
-	</tr>
-	<tr>
-		<td>短路操作</td> 
-		<td>anyMatch()</td>
-	</tr>
-</table>
